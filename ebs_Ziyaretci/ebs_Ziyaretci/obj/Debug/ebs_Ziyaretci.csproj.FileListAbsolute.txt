@@ -1,0 +1,14 @@
+c:\users\ozyil\onedrive\belgeler\visual studio 2015\Projects\ebs_Ziyaretci\ebs_Ziyaretci\bin\Debug\ebs_Ziyaretci.exe.config
+c:\users\ozyil\onedrive\belgeler\visual studio 2015\Projects\ebs_Ziyaretci\ebs_Ziyaretci\bin\Debug\ebs_Ziyaretci.exe
+c:\users\ozyil\onedrive\belgeler\visual studio 2015\Projects\ebs_Ziyaretci\ebs_Ziyaretci\bin\Debug\ebs_Ziyaretci.pdb
+c:\users\ozyil\onedrive\belgeler\visual studio 2015\Projects\ebs_Ziyaretci\ebs_Ziyaretci\obj\Debug\ebs_Ziyaretci.csprojResolveAssemblyReference.cache
+c:\users\ozyil\onedrive\belgeler\visual studio 2015\Projects\ebs_Ziyaretci\ebs_Ziyaretci\obj\Debug\ebs_Ziyaretci.Ziyaretci_giris.resources
+c:\users\ozyil\onedrive\belgeler\visual studio 2015\Projects\ebs_Ziyaretci\ebs_Ziyaretci\obj\Debug\ebs_Ziyaretci.Properties.Resources.resources
+c:\users\ozyil\onedrive\belgeler\visual studio 2015\Projects\ebs_Ziyaretci\ebs_Ziyaretci\obj\Debug\ebs_Ziyaretci.csproj.GenerateResource.Cache
+c:\users\ozyil\onedrive\belgeler\visual studio 2015\Projects\ebs_Ziyaretci\ebs_Ziyaretci\obj\Debug\ebs_Ziyaretci.exe
+c:\users\ozyil\onedrive\belgeler\visual studio 2015\Projects\ebs_Ziyaretci\ebs_Ziyaretci\obj\Debug\ebs_Ziyaretci.pdb
+c:\users\ozyil\onedrive\belgeler\visual studio 2015\Projects\ebs_Ziyaretci\ebs_Ziyaretci\obj\Debug\ebs_Ziyaretci.Form2.resources
+c:\users\ozyil\onedrive\belgeler\visual studio 2015\Projects\ebs_Ziyaretci\ebs_Ziyaretci\obj\Debug\ebs_Ziyaretci.Form3.resources
+C:\Users\ozyil\OneDrive\Belgeler\Visual Studio 2015\Projects\ebs_Ziyaretci\ebs_Ziyaretci\obj\Debug\ebs_Ziyaretci.Form4.resources
+C:\Users\ozyil\OneDrive\Belgeler\Visual Studio 2015\Projects\ebs_Ziyaretci\ebs_Ziyaretci\obj\Debug\ebs_Ziyaretci.Form5.resources
+C:\Users\ozyil\OneDrive\Belgeler\Visual Studio 2015\Projects\ebs_Ziyaretci\ebs_Ziyaretci\obj\Debug\ebs_Ziyaretci.Form6.resources
